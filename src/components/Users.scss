@@ -1,0 +1,33 @@
+.users-container{
+    width:95%;
+    margin:20px auto;
+}
+
+
+.user-content{
+    border: 1px solid gray;
+}
+.user-contact{
+    padding:30px 20px;
+    display:flex;
+    align-items:center;
+    //justify-content: center;
+    //text-align:center;
+}
+.user-photo{
+    width:150px;
+   height:150px;
+    overflow:hidden;
+    border-radius:50%;
+    position:relative;
+    margin-right:30px;
+
+    .user-photo_circle{
+        margin: 0 auto;
+        height:100%;
+    }
+
+}
+.user-posts{
+
+}
